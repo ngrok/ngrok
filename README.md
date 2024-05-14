@@ -2,6 +2,10 @@
 
 In this repository, you will find discussions for all things ngrok. Feel free to share feedback, discuss topics with other community members, or ask questions.
 
+## Product Bug Reports
+
+If you think you've found an bug in one of our products, the best place to report them is as a [new issue](https://github.com/ngrok/ngrok/issues/new). The issues page is regularly monitored by the ngrok Product team who will triage and respond. If the issue is with an open source ngrok product, we encourage you to open public issues directly in those repositories.
+
 ## Product Feedback / New Feature Ideas
 
 We encourage you to [open a discussion](https://github.com/ngrok/ngrok/discussions/categories/ideas) if you have suggestions for how we can improve our products. You don't need to have a solution to the problem you are facing to kick off a discussion. 
@@ -9,10 +13,6 @@ We encourage you to [open a discussion](https://github.com/ngrok/ngrok/discussio
 Prior to creating a new discussion, please take a look at previous discussions to see if someone else has already shared your suggestion(s). If you find a similar discussion, reply with additional details or upvote the discussion to signal your support rather than creating a new one.
 
 Once you kick off a new feature discussion, the ngrok Product team will evaluate the feedback but may not be able to respond to every submission. From there, we will work with you, and the entire community, to ensure we understand the current capabilities ngrok doesn’t have and explore the space for potential solutions to your problem statement. If the product team determines that we will not be working to solve the problem you have identified, we may comment on the discussion describing our reasoning so our decisions can remain transparent.
-
-## Product Bug Reports
-
-If you think you've found an bug in one of our products, the best place to report them is in the [Bug Reports Discussion](https://github.com/ngrok/ngrok/discussions/categories/bug-reports). This category is regularly monitored by the ngrok Product team who will triage and respond. If the issue is with an open source ngrok product, we encourage you to open public issues directly in those repositories.
 
 ## Disclaimer
 
