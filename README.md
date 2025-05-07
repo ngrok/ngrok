@@ -1,3 +1,7 @@
+> 🤖 **We're spinning up a new ngrok community on Discord!** Come flex your ingress, brainstorm some new Traffic Policy brilliance, and hang with the engineers who built ngrok from the ground-up.
+> 
+> ![Get in here](https://img.shields.io/discord/1362500814312182032?label=Get%20in%20here&logo=discord&style=flat)
+
 # ngrok Community Discussions
 
 In this repository, you will find discussions for all things ngrok. Feel free to share feedback, discuss topics with other community members, or ask questions.
